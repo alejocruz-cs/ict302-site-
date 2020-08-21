@@ -1,4 +1,4 @@
-baseURL = "http://https://sharp-sammet-7aa19b.netlify.app/"
+baseURL = "http://https://sharp-sammet-7aa19b.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
