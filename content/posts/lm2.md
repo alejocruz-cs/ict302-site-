@@ -9,4 +9,16 @@ draft: false
 
   - I can find and use resources for self-directed learning
   
-This week I learned HTML doesn't work in HUGO unless you get unrealisticaly lucky
+This week I learned HTML doesn't work in HUGO unless you get extremly lucky so I researched for external sources that will guided me to learning how to translate HTML into hugo compatible lines.
+
+<br>
+
+  - I can identify and employ technologies related to content management
+  
+  I didn't progress here this week
+  
+  <br>
+  
+    - I can manage content using established workflows.
+    
+    This past week I purchased a beautiful [Curved Monitor](https://www.bestbuy.com/site/dell-32-led-curved-qhd-freesync-monitor-with-hdr/6375331.p?skuId=6375331)
