@@ -12,4 +12,11 @@ It's interesting facts time! I like to make video games and because of that I've
 *Jojo's Bizzare Adventure
 *Toradora
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 ![bitmojime](https://sharp-sammet-7aa19b.netlify.app/IMG_8681.png)
