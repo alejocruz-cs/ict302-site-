@@ -6,7 +6,7 @@ draft: false
 # Hello
 It's interesting facts time! I like to make video games and because of that I've learnedmany different programming languages. I collect alot of interesting things primarily video games but I've recently got into collecting anime stuff which is cool but unfortunately very expensive so I've not got as much cool stuff as I would had liked. One more interesting fact here, I tried to add some nice custom CSS to this to make a cool image pulse but this format wouldn't allow me which is rather odd but then i found out that my hugo site isn't compatible with all forms of HTML so sometimes I've had to use the sharp sign instead of a set of these <> because brackets break the site. That's kind of cool but also not cool because I was hoping to be able to use my HTML knowledge to make this an easy class but that doesn't seem to be the case. HTML works perfectly when on github repository but absolutely will not show up at all on the Hugo site.
 
-  <br>
+~~Note:don't add br using < and > it hides all code below it on hugo~~
   My top 3 favorite anime are
   - Dragon Ball Super
   - Jojo's Bizzare Adventure
