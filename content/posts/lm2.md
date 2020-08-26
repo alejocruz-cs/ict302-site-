@@ -19,8 +19,6 @@ This week I learned HTML doesn't work in HUGO unless you get extremly lucky so I
   
   <br>
   
-    - I can manage content using established workflows.
+  - I can manage content using established workflows
     
-    This past week I purchased a beautiful 
-    
-<a href="https://www.bestbuy.com/site/dell-32-led-curved-qhd-freesync-monitor-with-hdr/6375331.p?skuId=6375331" target="_top">Curved Monitor</a>
+This past week i purchased a nice <a href="https://www.bestbuy.com/site/dell-32-led-curved-qhd-freesync-monitor-with-hdr/6375331.p?skuId=6375331" target="_top">Curved Monitor</a> and it's signifigantly larger than my previous monitor which allowed me to have 3 windows open and speed up my work
