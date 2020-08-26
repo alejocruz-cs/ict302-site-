@@ -37,3 +37,5 @@ This past week i purchased a nice <a href="https://www.bestbuy.com/site/dell-32-
 
 
 <hr>
+
+This week was simple yet frustrating because my prior knowledge was of little use but that is exciting because that means as I suffer using HUGO I'll improve my problem solving skills as well as expanding my web development knowledge as I'm encountering problems I've never seen before.
