@@ -34,3 +34,6 @@ This past week i purchased a nice <a href="https://www.bestbuy.com/site/dell-32-
   - I can identify and define key concepts in (web) content management.
   
   This week I learned Markdown which I never really knew of before because I always thought it was always just called HTML I didn't know there was sub-names for HTML features. The term markdown is what led me to finding ways I can find work around to allow HTML like concepts to work on HUGO
+
+
+<hr>
