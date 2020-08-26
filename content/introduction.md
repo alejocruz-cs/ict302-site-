@@ -12,13 +12,7 @@ It's interesting facts time! I like to make video games and because of that I've
   - Dragon Ball Super
   - Jojo's Bizzare Adventure
   - Toradora
-  
-  <ol>
-  <li>why won't</li>
-  <li>This work</li>
-  <li>on hugo</li>
-</ol>
-  
+
   
 <br>
 
@@ -26,3 +20,10 @@ below is my canvas profile picture but in full. I took this screenshot like 2 ye
 
 
 ![bitmojime](https://sharp-sammet-7aa19b.netlify.app/IMG_8681.png)
+
+  <ol>
+  <li>why won't</li>
+  <li>This work</li>
+  <li>on hugo</li>
+</ol>
+  
