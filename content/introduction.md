@@ -8,6 +8,8 @@ It's interesting facts time! I like to make video games and because of that I've
 
 ~~Note:don't add br using < and > it hides all code below it on hugo even though it works as intended on github preview~~
 
+<br>
+
   My top 3 favorite anime are
   - Dragon Ball Super
   - Jojo's Bizzare Adventure
