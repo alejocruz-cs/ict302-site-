@@ -12,11 +12,10 @@ It's interesting facts time! I like to make video games and because of that I've
   <br>
   My top 3 favorite anime are
   
-  <ul>
-<li>Dragon Ball Super</li>
-<li>Jojo's Bizzare Adventure</li>
-<li>Toradora</li>
-</ul>
+  
+-Dragon Ball Super
+-Jojo's Bizzare Adventure
+-Toradora
 
 ![bitmojime](https://sharp-sammet-7aa19b.netlify.app/IMG_8681.png)
 </body>
