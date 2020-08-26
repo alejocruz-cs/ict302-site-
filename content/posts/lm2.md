@@ -21,5 +21,6 @@ This week I learned HTML doesn't work in HUGO unless you get extremly lucky so I
   
     - I can manage content using established workflows.
     
-    This past week I purchased a beautiful [Curved Monitor](https://www.bestbuy.com/site/dell-32-led-curved-qhd-freesync-monitor-with-hdr/6375331.p?skuId=6375331)
+    This past week I purchased a beautiful 
+    
 <a href="https://www.bestbuy.com/site/dell-32-led-curved-qhd-freesync-monitor-with-hdr/6375331.p?skuId=6375331" target="_top">Curved Monitor</a>
