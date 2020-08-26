@@ -8,7 +8,7 @@ It's interesting facts time! I like to make video games and because of that I've
 
 <br>
 
-___________
+______________________________________
 
   # My top 3 favorite anime are
   - Dragon Ball Super
@@ -31,10 +31,9 @@ ___________
   - Spider-Man: Into the Spider-Verse (2018)
 
 
-______________
+________________________________
  
   
-<br>
 
 below is my canvas profile picture but in full. I took this screenshot like 2 years ago.
 
