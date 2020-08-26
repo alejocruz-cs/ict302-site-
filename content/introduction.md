@@ -8,6 +8,8 @@ It's interesting facts time! I like to make video games and because of that I've
 
 <br>
 
+___________
+
   # My top 3 favorite anime are
   - Dragon Ball Super
   - Jojo's Bizzare Adventure
@@ -28,6 +30,8 @@ It's interesting facts time! I like to make video games and because of that I've
   - Iron Man(2008)
   - Spider-Man: Into the Spider-Verse (2018)
 
+
+______________
  
   
 <br>
