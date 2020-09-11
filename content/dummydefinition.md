@@ -4,7 +4,7 @@ date: 2020-09-10
 draft: false
 ---
 
-<img src="https://pixabay.com/images/id-2810845/" alt="Definition">
+<img src="https://pixabay.com/images/id-2810845/.jpg" alt="Definition">
 
 Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? 
 De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat
