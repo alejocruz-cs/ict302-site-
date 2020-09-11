@@ -43,3 +43,13 @@ url = "/introduction/"
 name = "Dummy Walkthrough"
 weight = 1
 url = "/dummywalkthrough/"
+
+[[menu.main]]
+name = "Dummy definition"
+weight = 1
+url = "/dummyresource/"
+
+[[menu.main]]
+name = "Dummy Definitions"
+weight = 1
+url = "/dummydefinitions/"
