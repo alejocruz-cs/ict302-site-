@@ -45,11 +45,11 @@ weight = 1
 url = "/dummywalkthrough/"
 
 [[menu.main]]
-name = "Dummy definition"
+name = "Dummy resource"
 weight = 1
 url = "/dummyresource/"
 
 [[menu.main]]
-name = "Dummy Definitions"
+name = "Dummy Definition"
 weight = 1
-url = "/dummydefinitions/"
+url = "/dummydefinition/"
