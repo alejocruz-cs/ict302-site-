@@ -1,6 +1,6 @@
 ---
 title: "Walkthrough"
-date: 2020-08-24T00:00:00-04:00
+date: 2020-09-10
 draft: false
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
