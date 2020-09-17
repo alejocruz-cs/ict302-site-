@@ -1,7 +1,7 @@
 baseURL = "https://sharp-sammet-7aa19b.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "theme2"
+theme = "theme3"
 
 [build]
 publish = "public"
